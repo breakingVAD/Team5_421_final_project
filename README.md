@@ -58,3 +58,4 @@ We will build a microcontroller-controlled game, based on a Presidential Electio
 - Rice Themed:
      - Map of Rice campus, you have to “steal” something from each building (or each college?)
      - Each player chooses a residential college, and the LEDs light up with the college colors when they get the point
+.
